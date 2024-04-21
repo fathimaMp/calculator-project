@@ -1,0 +1,29 @@
+.calc{
+    width: 350px;
+    height: 430px;
+    background-color:rgb(10, 10, 10);
+    margin-left: 35%;
+    margin-top: 5px;
+    border-radius: 15px 15px 20px 20px;
+    
+}
+#screen{
+    margin-left: 22px;
+    margin-top: 40px;
+    width: 85%;
+    height: 50px;
+    pointer-events: none;
+    border-radius: 5px;
+    border-color: rgb(131, 96, 96);
+}
+.btn{
+    width: 60px;
+    height: 44px;
+    margin-top: 28px;
+    margin-left: 20px;
+    border-radius: 9px;
+    background-color: #252525;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+}
