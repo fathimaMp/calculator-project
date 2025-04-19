@@ -14,7 +14,7 @@ It allows users to perform simple arithmetic operations like addition, subtracti
 🚀 Features
 ------------
 
-Clean and simple user interface
+Clean and simple user interface.
 
 Perform basic arithmetic operations:
 
