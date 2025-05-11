@@ -45,8 +45,8 @@ JavaScript – Logic and interactivity
 
 
 
-💡 How It Works
-----------------
+How It Works
+------------
 
 Each button triggers a function (buttn_click() or equalTo()) on click.
 
