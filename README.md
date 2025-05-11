@@ -34,8 +34,8 @@ Responsive design (works on different screen sizes)
 
 
 
-🛠️ Tech Stack
---------------
+Tech Stack
+-----------
 
 HTML – Structure of the calculator
 
