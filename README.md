@@ -13,8 +13,8 @@ It allows users to perform simple arithmetic operations like addition, subtracti
 
 
 
-🚀 Features
-------------
+Features
+---------
 
 Clean and simple user interface.
 
