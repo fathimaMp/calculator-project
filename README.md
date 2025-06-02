@@ -1,5 +1,5 @@
 Simple Calculator Web App
------------------------------
+--------------------------
 
 This is a basic calculator web application built using HTML, CSS, and JavaScript. 
 It allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division.
