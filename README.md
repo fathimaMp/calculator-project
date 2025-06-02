@@ -1,4 +1,4 @@
-🔢 Simple Calculator Web App
+Simple Calculator Web App
 -----------------------------
 
 This is a basic calculator web application built using HTML, CSS, and JavaScript. 
